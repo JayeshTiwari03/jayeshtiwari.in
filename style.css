@@ -38,7 +38,7 @@ h1 {
     line-height: 1;
 
     position: fixed;
-    bottom: 0;
+    bottom: 3vh;
     width: 100%;
 }
 
